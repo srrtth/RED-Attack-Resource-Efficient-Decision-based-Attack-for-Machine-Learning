@@ -56,8 +56,8 @@ The input images should be organized in a directory structure where each subdire
 Update the path variable in the code to point to the directory containing the training images.
 Ensure that the images are named appropriately and the class labels are assigned correctly.
 Load the Pre-trained Model:
-
-Update the path to the pre-trained model file ([find it here] [https://github.com/srrtth/GTSRB-DNN-ImageClass]) in the code.
+ 
+Update the path to the pre-trained model file (find it here: [https://github.com/srrtth/GTSRB-DNN-ImageClass]) in the code.
 The model should be compatible with TensorFlow's Keras API.
 Run the Adversarial Attack:
 
